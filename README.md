@@ -1,3 +1,3 @@
-# iac-devsecops-githubactions
+#  Infrastructure Deployment with Github Actions CI/CD Pipeline
 
-This is a test of infrastructure deployment with Github actions pipeline
+This is a simple infrastructure deployment with Github actions pipeline
